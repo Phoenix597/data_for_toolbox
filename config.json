@@ -12,23 +12,15 @@
   "群KEY":"GCtF6BZqaKdSPVAfviMYqXsA-_DbQ2z4",
   "官方验证":"关闭",
   "功能密码":"02d6a10f00a8",
-  "轮播开关":"关闭",
+  "轮播开关":"开启",
   "轮播列表":[
       {
-          "轮播图片":"https://gitee.com/xiao1602965165/shixin/raw/master/banner/810C4BC7C7000A25CC5DB22F2F93F909.jpg",
-          "轮播地址":"http://yydsq.cn/"
+          "轮播图片":"https://gitee.com/x1602965165/DaiMeng/raw/master/banner/3E1DD1D58EB8F707059AEEDE9F10E77A.png",
+          "轮播地址":"http://www.sstagweb.cn/#dm"
       },
       {
-          "轮播图片":"https://gitee.com/xiao1602965165/shixin/raw/master/banner/-73ce3b00ef0363bd.jpg",
+          "轮播图片":"https://gitee.com/x1602965165/DaiMeng/raw/master/banner/-73ce3b00ef0363bd.jpg",
           "轮播地址":"http://igetter.cn/#88"
-      },
-      {
-          "轮播图片":"https://gitee.com/xiao1602965165/shixin/raw/master/banner/zhuce(2).png",
-          "轮播地址":"http://download4.xiaobaizq.com/register/regist.html?recode=izKR1tPJ"
-      },
-      {
-          "轮播图片":"https://gitee.com/xiao1602965165/shixin/raw/master/banner/1620752784406ckt_img.gif",
-          "轮播地址":"https://qm.qq.com/cgi-bin/qm/qr?k=jnPo4-ez2Wqaz1JM9SvFXqh28jTdHf7A&noverify=0"
       }
   ],
   "近期更新":[

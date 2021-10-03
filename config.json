@@ -10,7 +10,7 @@
   "弹窗广告地址":"mqqapi://card/show_pslcard?src_type=internal&version=1&uin=&card_type=group&source=qrcode",
   "解析地址":"",
   "群KEY":"GCtF6BZqaKdSPVAfviMYqXsA-_DbQ2z4",
-  "官方验证":"关闭",
+  "官方验证":"开启",
   "功能密码":"02d6a10f00a8",
   "轮播开关":"关闭",
   "轮播列表":[

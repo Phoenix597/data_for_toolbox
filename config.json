@@ -12,7 +12,7 @@
   "群KEY":"GCtF6BZqaKdSPVAfviMYqXsA-_DbQ2z4",
   "官方验证":"开启",
   "功能密码":"02d6a10f00a8",
-  "轮播开关":"关闭",
+  "轮播开关":"开启",
   "轮播列表":[
       {
           "轮播图片":"https://gitee.com/x1602965165/DaiMeng/raw/master/banner/3E1DD1D58EB8F707059AEEDE9F10E77A.png",
@@ -24,6 +24,7 @@
       }
   ],
   "近期更新":[
+      "18禁-密码加群获取",
       "影视搜索",
       "图片清晰度提升",
       "黑白图上色",

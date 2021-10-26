@@ -12,11 +12,11 @@
   "群KEY":"GCtF6BZqaKdSPVAfviMYqXsA-_DbQ2z4",
   "官方验证":"关闭",
   "功能密码":"02d6a10f00a8",
-  "轮播开关":"关闭",
+  "轮播开关":"开启",
   "轮播列表":[
       {
-          "轮播图片":"https://gitee.com/x1602965165/DaiMeng/raw/master/banner/3E1DD1D58EB8F707059AEEDE9F10E77A.png",
-          "轮播地址":"http://www.sstagweb.cn/#dm"
+          "轮播图片":"https://gitee.com/x1602965165/DaiMeng/raw/master/banner/%E4%B8%8B%E8%BD%BD.gif",
+          "轮播地址":"https://qm.qq.com/cgi-bin/qm/qr?k=LTsJQa_X87bgnWReZbxdBfQjto1VinJB&noverify=0"
       },
       {
           "轮播图片":"https://gitee.com/x1602965165/DaiMeng/raw/master/banner/-73ce3b00ef0363bd.jpg",
@@ -24,6 +24,8 @@
       }
   ],
   "近期更新":[
+      "出售软件源代码",
+      "联系QQ1602965165",
       "影视搜索",
       "头像制作",
       "Google翻译",
